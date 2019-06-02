@@ -1,2 +1,5 @@
 # Google App Engine generated folder
-appengine-generated/
+appengine-generated/ git clone https://github.com/NativeScript/sample-ios-background-execution.git
+    cd sample-ios-background-execution
+    npm install
+    tns run ios
